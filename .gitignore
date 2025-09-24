@@ -1,0 +1,7 @@
+__pycache__/
+*.pt
+*.log
+*.mp4
+*.avi
+*.mkv
+yolov8-env/
